@@ -24,6 +24,8 @@ filetype plugin indent on    " required
 colorscheme predawn
 syntax on
 set number
+set splitbelow
+set splitright
 
 " status line
 set laststatus=2
