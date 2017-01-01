@@ -1,0 +1,2 @@
+npm intit -y
+sudo npm install -D gulp gulp-pug

@@ -14,6 +14,7 @@ Plugin 'mattn/emmet-vim'
 " Plugin 'othree/html5.vim'
 Plugin 'vim-syntastic/syntastic'
 Plugin 'csscomb/vim-csscomb'
+Plugin 'digitaltoad/vim-pug'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
